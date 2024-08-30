@@ -1,28 +1,45 @@
-#  다재다능 게임 개발자 [김민]입니다! 👾
+[Korean]
+# 유니티 게임 개발자 [김민]입니다! 👾
 
-안녕하세요! 저는 언리얼 엔진을 사용하여 게임을 개발하는 09 개발자 김민 입니다! 저는 현재 블루프린트와 언리얼 엔진 머테리얼,레벨 디자인 등등을 배우고 활용하고 있습니다.
+안녕하세요! 저는 유니티 엔진을 사용하여 다양한 게임을 개발하는 개발자 김민 입니다! 저는 현재 C#,모델링,Ui 등등을 배우고 활용하고 있습니다.
 
 ## 기술 스택:
-- **게임 엔진**: Unreal Engine 5.3,5.4
-- **언어**: 블루프린트
-- **그래픽스**: Unreal Material, 나이아가라 시스템,레벨 디자인
-- **잠자기**:하루 수면 6시간 이상 보장!
+- **게임 엔진**: Unity [2022.3.38.f1]
+- **언어**: C#
+- **그래픽스**: Blender,PhotoShop
+- **잠자기**: 하루 수면 6시간 이상 보장!
+- **밥먹기**: 잘먹는 중
 
 ## 프로젝트:
-- 🎮 [가장 최근에 만든 포트폴리오]
-(추후 추가 예정)
-- 🌌 [몇몇 개발한 게임 샘플]
-- ([X_KimMin](https://x.com/kimmin090309?t=fDA67fN4Biji32VMigh9Hw&s=09))
+[비공]
 
 ## 연락처:
 - 📧 이메일: kimmin20090309@gmail.com
   
 - 🔗 깃허브: [github.com/pounl46](https://github.com/pounl46)
 
-게임 개발에 관심이 있거나 협업을 원하신다면 언제든지 연락 주세요! 함께 배우고 성장하는것을 즐깁니다.
+- ![image](https://github.com/user-attachments/assets/cf24f90c-2084-4797-8b73-a3db5a8d839e) 디스코드 : kim_min0309
 
-I'm Game Deverloper use UnrealEngine!
 
-Hello! i'm Game Deverloper Use UnrealEngine! my age is 16(In South Korea), i'm leaning some BluePrint and Material and some Build Level!
-MY PortFolio here -> ([X_KimMin](https://x.com/kimmin090309?t=fDA67fN4Biji32VMigh9Hw&s=09)) and my E-Mail here -> kimmin20090309@gmail.com
-thx to reading!!
+게임 개발에 관심이 있거나 같이 배우며 성장할 자신이 있거나 혹은 그 이상의 실력을 가졌지만 팀원이 없다면 연락 주세요!
+
+[English]
+# Unity Game Developer [Min Kim]! 👾
+Hello! I'm Min Kim, a developer who creates various games using the Unity engine! I am currently learning and applying skills in C#, modeling, UI, and more.
+
+## Tech Stack:
+-**Game Engine**: Unity [2022.3.38.f1]
+-**Language**: C#
+-**Graphics**: Blender, PhotoShop
+-**Sleeping**: Ensuring at least 6 hours of sleep per day!
+-**Eating**: Eating well
+##Projects:
+[Confidential]
+## Contact:
+-📧 Email: kimmin20090309@gmail.com
+
+-🔗 GitHub: github.com/pounl46
+
+- ![image](https://github.com/user-attachments/assets/cf24f90c-2084-4797-8b73-a3db5a8d839e) Discord : kim_min0309
+
+- If you're interested in game development, eager to learn and grow together, or if you have advanced skills but lack a team, feel free to reach out!
