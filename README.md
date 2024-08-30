@@ -37,8 +37,10 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 - **Graphics**: Blender, PhotoShop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
 - **Sleeping**: Ensuring at least 6 hours of sleep per day!
 - **Eating**: Eating well
+
 ##Projects:
 [Confidential]
+
 ## Contact:
 - 📧 Email: kimmin20090309@gmail.com
 
