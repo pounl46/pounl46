@@ -4,7 +4,7 @@
 안녕하세요! 저는 유니티 엔진을 사용하여 다양한 게임을 개발하는 개발자 김민 입니다! 저는 현재 C#,모델링,Ui 등등을 배우고 활용하고 있습니다.
 
 ## 기술 스택:
-- **게임 엔진**: Unity [2022.3.38.f1]
+- **게임 엔진**: Unity [2022.3.38.f1] <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
 - **언어**: C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
 - **그래픽스**: Blender,PhotoShop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
 - **잠자기**: 하루 수면 6시간 이상 보장!
@@ -29,9 +29,9 @@
 Hello! I'm Min Kim, a developer who creates various games using the Unity engine! I am currently learning and applying skills in C#, modeling, UI, and more.
 
 ## Tech Stack:
-- **Game Engine**: Unity [2022.3.38.f1]
+- **Game Engine**: Unity [2022.3.38.f1] <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
 - **Language**: C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
-- **Graphics**: Blender, PhotoShop
+- **Graphics**: Blender, PhotoShop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
 - **Sleeping**: Ensuring at least 6 hours of sleep per day!
 - **Eating**: Eating well
 ##Projects:
