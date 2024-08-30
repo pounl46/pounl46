@@ -17,8 +17,7 @@
 - 📧 이메일: kimmin20090309@gmail.com
   
 - 🔗 깃허브: [github.com/pounl46](https://github.com/pounl46)
-
-- ![image](https://github.com/user-attachments/assets/cf24f90c-2084-4797-8b73-a3db5a8d839e) 디스코드 : kim_min0309
+- <img src="https://github.com/user-attachments/assets/cf24f90c-2084-4797-8b73-a3db5a8d839e.png"  width="200" height="400"/> 디스코드 : kim_min0309
 
 
 게임 개발에 관심이 있거나 같이 배우며 성장할 자신이 있거나 혹은 그 이상의 실력을 가졌지만 팀원이 없다면 연락 주세요!
