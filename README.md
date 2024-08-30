@@ -25,14 +25,15 @@
 
 [English]
 # Unity Game Developer [Min Kim]! 👾
+
 Hello! I'm Min Kim, a developer who creates various games using the Unity engine! I am currently learning and applying skills in C#, modeling, UI, and more.
 
 ## Tech Stack:
--**Game Engine**: Unity [2022.3.38.f1]
--**Language**: C#
--**Graphics**: Blender, PhotoShop
--**Sleeping**: Ensuring at least 6 hours of sleep per day!
--**Eating**: Eating well
+- **Game Engine**: Unity [2022.3.38.f1]
+- **Language**: C#
+- **Graphics**: Blender, PhotoShop
+- **Sleeping**: Ensuring at least 6 hours of sleep per day!
+- **Eating**: Eating well
 ##Projects:
 [Confidential]
 ## Contact:
