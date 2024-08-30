@@ -38,7 +38,7 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 - **Sleeping**: Ensuring at least 6 hours of sleep per day!
 - **Eating**: Eating well
 
-##Projects:
+## Projects:
 [Confidential]
 
 ## Contact:
