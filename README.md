@@ -43,4 +43,4 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 
 - <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/> Discord : kim_min0309
 
-- If you're interested in game development, eager to learn and grow together, or if you have advanced skills but lack a team, feel free to reach out!
+If you're interested in game development, eager to learn and grow together, or if you have advanced skills but lack a team, feel free to reach out!
