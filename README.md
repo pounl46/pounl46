@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=708090&height=200&section=header&text=Developer%20Kim_Min&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=200&section=header&text=Developer%20Kim_Min&fontSize=90)
 
 
 [Korean]
