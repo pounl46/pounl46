@@ -17,7 +17,8 @@
 - 📧 이메일: kimmin20090309@gmail.com
   
 - 🔗 깃허브: [github.com/pounl46](https://github.com/pounl46)
-- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="25" height="25"/> 디스코드 : kim_min0309
+
+- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/> 디스코드 : kim_min0309
 
 
 게임 개발에 관심이 있거나 같이 배우며 성장할 자신이 있거나 혹은 그 이상의 실력을 가졌지만 팀원이 없다면 연락 주세요!
@@ -35,10 +36,10 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 ##Projects:
 [Confidential]
 ## Contact:
--📧 Email: kimmin20090309@gmail.com
+- 📧 Email: kimmin20090309@gmail.com
 
--🔗 GitHub: github.com/pounl46
+- 🔗 GitHub: github.com/pounl46
 
-- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="25" height="25"/> Discord : kim_min0309
+- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/> Discord : kim_min0309
 
 - If you're interested in game development, eager to learn and grow together, or if you have advanced skills but lack a team, feel free to reach out!
