@@ -14,7 +14,7 @@
 - **밥먹기**: 잘먹는 중
 
 ## 프로젝트:
-[비공]
+[유튜브 채널](https://www.youtube.com/channel/UCpoMrZz50yp0kh8G-qyXVoA)
 
 ## 연락처:
 - 📧 이메일: kimmin20090309@gmail.com
@@ -39,7 +39,7 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 - **Eating**: Eating well
 
 ## Projects:
-[Confidential]
+[Youtube](https://www.youtube.com/channel/UCpoMrZz50yp0kh8G-qyXVoA)
 
 ## Contact:
 - 📧 Email: kimmin20090309@gmail.com
