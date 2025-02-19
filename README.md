@@ -9,7 +9,7 @@
 ## 기술 스택:
 - **게임 엔진**: Unity [2022.3.38.f1],[6000.0.32f1] <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
 - **언어**: C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
-- **그래픽스**: Blender,PhotoShop,Substance3DPainter <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png"  width="20" height="20"/>![image](https://github.com/user-attachments/assets/1827d85a-9a5f-43d9-82bb-e2fe6324d7fd)
+- **그래픽스**: Blender,PhotoShop,Substance3DPainter <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png"  width="20" height="20"/><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png](https://github.com/user-attachments/assets/1827d85a-9a5f-43d9-82bb-e2fe6324d7fd"  width="20" height="20"/>
 
 - **잠자기**: 하루 수면 6시간 이상 보장!
 - **밥먹기**: 잘먹는 중
