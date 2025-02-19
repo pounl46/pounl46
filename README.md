@@ -15,9 +15,6 @@
 - Substance3DPainter<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png"  width="20" height="20"/>
 - Substance 3D Designer<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-designer-icon.png"  width="20" height="20"/>
 
-- **잠자기**: 하루 수면 6시간 이상 보장!
-- **밥먹기**: 잘먹는 중
-
 ## 프로젝트:
 [유튜브 채널](https://www.youtube.com/channel/UCpoMrZz50yp0kh8G-qyXVoA)
 
