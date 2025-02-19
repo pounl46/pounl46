@@ -9,7 +9,7 @@
 ## 기술 스택:
 - **게임 엔진**: Unity [2022.3.38.f1],[6000.0.32f1] <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
 - **언어**: C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
-- **그래픽스**:
+### **그래픽스**:
 - Blender <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/>
 - PhotoShop<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
 - Substance3DPainter<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png"  width="20" height="20"/>
