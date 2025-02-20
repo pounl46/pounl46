@@ -41,8 +41,6 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 - PhotoShop<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
 - Substance3DPainter<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png"  width="20" height="20"/>
 - Substance 3D Designer<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-designer-icon.png"  width="20" height="20"/>
-- **Sleeping**: Ensuring at least 6 hours of sleep per day!
-- **Eating**: Eating well
 
 ## Projects:
 [Youtube](https://www.youtube.com/channel/UCpoMrZz50yp0kh8G-qyXVoA)
