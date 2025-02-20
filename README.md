@@ -36,7 +36,11 @@ Hello! I'm Min Kim, a developer who creates various games using the Unity engine
 ## Tech Stack:
 - **Game Engine**: Unity [2022.3.38.f1] <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
 - **Language**: C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
-- **Graphics**: Blender, PhotoShop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
+  ### **Graphics**:
+- Blender <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  width="20" height="20"/>
+- PhotoShop<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  width="20" height="20"/>
+- Substance3DPainter<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png"  width="20" height="20"/>
+- Substance 3D Designer<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-designer-icon.png"  width="20" height="20"/>
 - **Sleeping**: Ensuring at least 6 hours of sleep per day!
 - **Eating**: Eating well
 
