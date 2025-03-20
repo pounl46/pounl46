@@ -5,7 +5,8 @@
 # 유니티 게임 개발자 [김민]입니다! 👾
 
 안녕하세요! 저는 유니티 엔진을 사용하여 다양한 게임을 개발하는 개발자 김민 입니다! 저는 현재 C#,모델링,Ui 등등을 배우고 활용하고 있습니다.
-
+## 지망 분야 :
+- **아트,TA,클라이언트 개발자**
 ## 기술 스택:
 - **게임 엔진**: Unity [2022.3.38.f1],[6000.0.32f1] <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
 - **언어**: C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
